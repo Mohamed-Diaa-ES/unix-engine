@@ -93,9 +93,8 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
 
 # ==============================================================================
-# Conf file Name:  nginx.conf
-# Description:  Configuration file for the nginx service to 
-#               help easier sending of files to the container.
+# Application file name :  app.py
+# Description:  Application file that runs all building and behind the scene
 # Author:       MohammedDiaa (mohammeddiaato@gmail.com)
 # Company:      Gestell - Professional Embedded Solutions
 # ==============================================================================
